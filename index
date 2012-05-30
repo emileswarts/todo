@@ -6,8 +6,13 @@ URXVT
 	2.  Yank mode with keyboard
 	
 BASH
-	todo "something"
+	todo "something", not taking app
 	BOOM
+	cat /etc/httpd/conf/vhosts/ngn.conf |egrep 'Server|Document'
 
 ARCH
 	dropbox
+	Fonts, ldis smiley not working
+
+ZSH
+	hg status in prompt
