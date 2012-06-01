@@ -13,6 +13,10 @@ BASH
 ARCH
 	dropbox
 	Fonts, ldis smiley not working
+	Full screen virtual box
+	Puppet for config?
 
 ZSH
 	hg status in prompt
+
+
