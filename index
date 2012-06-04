@@ -9,6 +9,7 @@ BASH
 	todo "something", not taking app
 	BOOM
 	cat /etc/httpd/conf/vhosts/ngn.conf |egrep 'Server|Document'
+	write a script to update all repos from weekend tinkering
 
 ARCH
 	dropbox
