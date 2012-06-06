@@ -1,7 +1,6 @@
 XMONAD
 	function keys, including volume
 	fix gimp layout.  currently pretty messed up
-	fix applications to workspaces when opened
 
 URXVT
 	Switch from gnome terminal
