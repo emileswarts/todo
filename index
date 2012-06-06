@@ -23,9 +23,10 @@ ARCH
 	tmux?
 	virtualbox modprobe load modules on boot
 	Iphone with banshee or itunes in wine
+	pm-suspend tools, how to wake up computer??
 
 ZSH
-	hg status in prompt
+	HG status in prompt
 
 	Blog resurrection on github 
 	Right click keyboard shortcut for browser
