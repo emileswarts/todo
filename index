@@ -1,9 +1,11 @@
 XMONAD
-	1. function keys, including volume
+	function keys, including volume
+	fix gimp layout.  currently pretty messed up
+	fix applications to workspaces when opened
 
 URXVT
-	1.  Switch from gnome terminal
-	2.  Yank mode with keyboard
+	Switch from gnome terminal
+	Yank mode with keyboard
 	
 BASH
 	todo "something", not taking app
@@ -26,5 +28,5 @@ ARCH
 ZSH
 	hg status in prompt
 
-Blog resurrection on github 
-Right click keyboard shortcut for browser
+	Blog resurrection on github 
+	Right click keyboard shortcut for browser
