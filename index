@@ -24,6 +24,8 @@ ARCH
 	virtualbox modprobe load modules on boot
 	Iphone with banshee or itunes in wine
 	pm-suspend tools, how to wake up computer??
+	Fish for a shell?
+	Twitter client
 
 ZSH
 	HG status in prompt
