@@ -37,3 +37,7 @@ MUTT
 	new colourscheme
 	Do not display headers
 	sidebar
+
+VIM
+	resize splits
+	change split orientation
