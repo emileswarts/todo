@@ -7,7 +7,6 @@ URXVT
 	Yank mode with keyboard
 	
 BASH
-	todo "something", not taking app
 	BOOM
 	cat /etc/httpd/conf/vhosts/ngn.conf |egrep 'Server|Document'
 	write a script to update all repos from weekend tinkering
@@ -42,6 +41,6 @@ MUTT
 VIM
 	resize splits
 	change split orientation
-this is a test
-this is a test
-some sort of notifications like gnome notifier
+	some sort of notifications like gnome notifier
+
+
