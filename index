@@ -37,7 +37,6 @@ MUTT
 	new colourscheme
 	Do not display headers
 	sidebar
-	use gvim for composing.  Keep message index when launching.
 
 VIM
 	resize splits
