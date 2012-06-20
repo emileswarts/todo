@@ -47,3 +47,6 @@ VIM
 
 GITHUB
 	Using github markup for this todo list?
+
+VIRTUAL BOX
+    Setup VNC server(tightVNC) and start Windows VM using VBoxHeadless -s "WindowsXP". Then access it using a VNC client (TightVNC)
