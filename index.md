@@ -50,10 +50,6 @@ VIM
 	Sort out gvimrc for mutt (yes i use gvim for mutt.  it just looks nicer)
 	PHP debugging https://github.com/vim-scripts/DBGp-Remote-Debugger-Interface
 
-GITHUB
-======
-	Using github markup for this todo list?
-
 VIRTUAL BOX
 ===========
     Setup VNC server(tightVNC) and start Windows VM using VBoxHeadless -s "WindowsXP". Then access it using a VNC client (TightVNC)
