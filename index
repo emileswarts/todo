@@ -44,5 +44,4 @@ VIM
 	change split orientation
 	some sort of notifications like gnome notifier
 	Sort out gvimrc for mutt (yes i use gvim for mutt.  it just looks nicer)
-
-
+	Refresh browser on special save chord
