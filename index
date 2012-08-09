@@ -1,6 +1,7 @@
 XMONAD
 	function keys, including volume
 	fix gimp layout.  currently pretty messed up
+	transition when switching screens, no flash
 
 URXVT
 	Switch from gnome terminal
