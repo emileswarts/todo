@@ -43,6 +43,7 @@ MUTT
 	new colourscheme
 	Do not display headers
 	sidebar
+	View attachments according to extension
 
 VIM
 ===
