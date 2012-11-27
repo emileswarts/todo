@@ -29,6 +29,7 @@ ARCH
 	Fish for a shell?
 	Twitter client
 	Photoshop with wine
+	Switch to SystemD from initscripts
 
 ZSH
 ===
